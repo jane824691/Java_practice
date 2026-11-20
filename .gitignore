@@ -1,0 +1,15 @@
+# Java 編譯檔
+*.class
+
+# Java 專案建置目錄
+target/
+build/
+out/
+
+# IDE 設定
+.idea/
+.vscode/
+
+# 作業系統產生的檔案
+.DS_Store
+Thumbs.db
